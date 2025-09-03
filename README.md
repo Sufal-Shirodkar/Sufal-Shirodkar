@@ -8,7 +8,7 @@ A passionate Full-Stack Developer with experience in building robust and scalabl
 
 - 🔭 I’m currently working on enhancing my skills in cloud-native development and serverless architecture.
 - 🌱 I’m currently learning more about CI/CD pipelines and infrastructure as code (IaC).
-- 👯 I’m looking to collaborate on open-source projects related to web development and cloud technologies.
+- 🤜🏻 I’m looking to collaborate on open-source projects related to web development and cloud technologies.
 - 🤔 I’m looking for help with advanced DevOps and containerization strategies.
 - 💬 Ask me about React, Node.js, JavaScript, or anything related to the MERN stack.
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/sufal-shirodkar/) | [Gmail](sufaljshirodkar@gmail.com)
